@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.cpp(27): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(29): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(69): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(71): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  20 of 23 functions (87.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFMLGame.vcxproj -> C:\Users\aofallon\Desktop\Fall2017\cpts122\lectures\SFMLGame4\SFMLGame4\Release\SFMLGame.exe
+  SFMLGame.vcxproj -> C:\Users\aofallon\Desktop\Fall2017\cpts122\lectures\SFMLGame4\SFMLGame4\Release\SFMLGame.pdb (Full PDB)

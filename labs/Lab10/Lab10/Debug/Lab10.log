@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\edgar\desktop\cpts122\labs\lab10\lab10\main.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  Lab10.vcxproj -> C:\Users\Edgar\Desktop\cpts122\labs\Lab10\Debug\Lab10.exe
+  Lab10.vcxproj -> C:\Users\Edgar\Desktop\cpts122\labs\Lab10\Debug\Lab10.pdb (Full PDB)

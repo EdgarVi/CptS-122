@@ -1,0 +1,8 @@
+﻿  queue.c
+  main.c
+  Generating Code...
+c:\users\edgar\desktop\cpts122\labs\lab4\lab4\queue.c(74): warning C4715: 'dequeue': not all control paths return a value
+c:\users\edgar\desktop\cpts122\labs\lab4\lab4\queue.c(86): warning C4716: 'printQueueRecursive': must return a value
+c:\users\edgar\desktop\cpts122\labs\lab4\lab4\queue.c(56): warning C4715: 'enqueue': not all control paths return a value
+  Lab4.vcxproj -> c:\users\edgar\desktop\cpts122\Labs\Lab4\Debug\Lab4.exe
+  Lab4.vcxproj -> c:\users\edgar\desktop\cpts122\Labs\Lab4\Debug\Lab4.pdb (Full PDB)

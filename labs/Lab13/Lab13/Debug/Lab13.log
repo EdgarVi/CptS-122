@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\edgar\desktop\cpts122\labs\lab13\lab13\main.cpp(33): error C2039: 'Move': is not a member of 'Mammal'
+  c:\users\edgar\desktop\cpts122\labs\lab13\lab13\mammal.h(17): note: see declaration of 'Mammal'
+c:\users\edgar\desktop\cpts122\labs\lab13\lab13\main.cpp(35): error C2039: 'Speak': is not a member of 'Mammal'
+  c:\users\edgar\desktop\cpts122\labs\lab13\lab13\mammal.h(17): note: see declaration of 'Mammal'
+  Mammal.cpp
+c:\users\edgar\desktop\cpts122\labs\lab13\lab13\mammal.cpp(25): error C2039: 'Move': is not a member of 'Mammal'
+  c:\users\edgar\desktop\cpts122\labs\lab13\lab13\mammal.h(17): note: see declaration of 'Mammal'
+c:\users\edgar\desktop\cpts122\labs\lab13\lab13\mammal.cpp(27): error C2270: 'Move': modifiers not allowed on nonmember functions
+c:\users\edgar\desktop\cpts122\labs\lab13\lab13\mammal.cpp(35): error C2039: 'Speak': is not a member of 'Mammal'
+  c:\users\edgar\desktop\cpts122\labs\lab13\lab13\mammal.h(17): note: see declaration of 'Mammal'
+c:\users\edgar\desktop\cpts122\labs\lab13\lab13\mammal.cpp(37): error C2270: 'Speak': modifiers not allowed on nonmember functions
+  Generating Code...
+  Compiling...
+  Dog.cpp
+  Generating Code...

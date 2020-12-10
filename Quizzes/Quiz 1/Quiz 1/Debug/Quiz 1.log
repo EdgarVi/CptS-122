@@ -1,0 +1,7 @@
+﻿  quiz.c
+c:\users\edgar\desktop\cpts122\quizzes\quiz 1\quiz 1\quiz.c(11): warning C4047: 'return': 'char' differs in levels of indirection from 'char *'
+c:\users\edgar\desktop\cpts122\quizzes\quiz 1\quiz 1\quiz.c(28): warning C4047: 'return': 'char' differs in levels of indirection from 'char *'
+  main.c
+  Generating Code...
+  Quiz 1.vcxproj -> c:\users\edgar\desktop\cpts122\Quizzes\Quiz 1\Debug\Quiz 1.exe
+  Quiz 1.vcxproj -> c:\users\edgar\desktop\cpts122\Quizzes\Quiz 1\Debug\Quiz 1.pdb (Full PDB)

@@ -1,0 +1,11 @@
+﻿  Stack.cpp
+  Node.cpp
+  main.cpp
+  List.cpp
+  ApplicationMenu.cpp
+c:\users\villa\desktop\cpts122\cpts122\pas\pa7\pa7\applicationmenu.cpp(277): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  Generating Code...
+  LINK : C:\Users\villa\Desktop\cpts122\cpts122\PAs\PA7\Debug\PA7.exe not found or not built by the last incremental link; performing full link
+  PA7.vcxproj -> C:\Users\villa\Desktop\cpts122\cpts122\PAs\PA7\Debug\PA7.exe
+  PA7.vcxproj -> C:\Users\villa\Desktop\cpts122\cpts122\PAs\PA7\Debug\PA7.pdb (Full PDB)

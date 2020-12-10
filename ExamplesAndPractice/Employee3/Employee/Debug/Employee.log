@@ -1,0 +1,2 @@
+﻿  Employee.cpp
+c:\users\edgar\desktop\cpts122\examplesandpractice\employee3\employee\employee.cpp(46): error C2723: 'Employee::calculatePay': 'virtual' specifier illegal on function definition

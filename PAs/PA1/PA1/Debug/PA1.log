@@ -1,0 +1,43 @@
+﻿  fitbit.c
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(56): warning C4020: 'puts': too many actual parameters
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(67): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(82): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(94): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(105): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(116): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(127): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(139): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(44): warning C4101: 'minutes': unreferenced local variable
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(44): warning C4101: 'floors': unreferenced local variable
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(44): warning C4101: 'distance': unreferenced local variable
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(44): warning C4101: 'sleeplevel': unreferenced local variable
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(44): warning C4101: 'heartrate': unreferenced local variable
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(44): warning C4101: 'calories': unreferenced local variable
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(44): warning C4101: 'steps': unreferenced local variable
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(334): warning C4018: '<': signed/unsigned mismatch
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(394): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(397): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(411): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(411): warning C4024: 'fputs': different types for formal and actual parameter 1
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(411): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(411): warning C4024: 'fputs': different types for formal and actual parameter 2
+c:\users\edgar\desktop\cpts122\pas\pa1\pa1\fitbit.c(411): warning C4020: 'fputs': too many actual parameters
+  PA1.vcxproj -> C:\Users\Edgar\Desktop\cpts122\PAs\PA1\Debug\PA1.exe
+  PA1.vcxproj -> C:\Users\Edgar\Desktop\cpts122\PAs\PA1\Debug\PA1.pdb (Full PDB)

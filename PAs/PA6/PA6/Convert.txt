@@ -1,0 +1,6 @@
+This test of the cpts 122
+Morse code conversion tool.
+Are all dogs good boys?
+Yes they are.
+the quick brown fox, jumps over the lazy dog?
+The above sentence contains all the letters of the alphabet.

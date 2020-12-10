@@ -1,0 +1,14 @@
+﻿  Target.cpp
+  Head.cpp
+c:\users\edgar\desktop\cpts122\pas\pa9\pa9\head.cpp(79): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\edgar\desktop\cpts122\pas\pa9\pa9\head.cpp(80): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Application.cpp
+c:\users\edgar\desktop\cpts122\pas\pa9\pa9\application.cpp(73): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\edgar\desktop\cpts122\pas\pa9\pa9\application.cpp(171): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  PA9.vcxproj -> C:\Users\Edgar\Desktop\cpts122\PAs\PA9\Debug\PA9.exe
+  PA9.vcxproj -> C:\Users\Edgar\Desktop\cpts122\PAs\PA9\Debug\PA9.pdb (Full PDB)
